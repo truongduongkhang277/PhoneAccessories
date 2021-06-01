@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "60a874cc377ea31fa0cd49ef"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "60a874cc377ea31fa0cd49f0"
+      },
+      "name": "IPhone case",
+      "image": "/images/product.png",
+      "price": 80000,
+      "product": {
+        "$oid": "60a4159abd18de194c94fe09"
+      },
+      "qty": 1
+    }
+  ],
+  "shippingAddress": [
+    {
+      "_id": {
+        "$oid": "60a874cc377ea31fa0cd49f1"
+      },
+      "fullname": "Test data",
+      "address": "34/7B Đường 34, Linh Đông",
+      "country": "Vietnam",
+      "city": "26/1C Đường 34, Linh Đông",
+      "postalCode": "84"
+    }
+  ],
+  "paymentMethod": "Stripe",
+  "itemsPrice": 80000,
+  "shippingPrice": 10000,
+  "taxPrice": 8000,
+  "totalPrice": 98000,
+  "user": {
+    "$oid": "60a868640ea76824b4d02448"
+  },
+  "createdAt": {
+    "$date": "2021-05-22T03:04:44.177Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T03:04:44.177Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,24 @@
+install mongoDB
+
+create collection accessories
+
+at React folder
+ run cmd 
+ npm install 
+ npm start
+
+ at frontend folder
+ run cmd
+ npm install
+ npm start
+
+create api
+run in Web browser
+-- user
+http://localhost:5000/api/users/seed
+
+--product
+change productRouter.js get('/') to return create function
+http://localhost:5000/api/product
+
+project have json file, you can import it to api

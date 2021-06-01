@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "60a868640ea76824b4d02448"
+  },
+  "isAdmin": true,
+  "name": "Test",
+  "email": "test@email.com",
+  "password": "$2a$08$oO0ltcIeu9XtNQKUsYGe5OtlmgOxABJmkVkbFbDsUQf2WEz4OjTHS",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-22T02:11:48.103Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T02:11:48.103Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a868640ea76824b4d02449"
+  },
+  "isAdmin": true,
+  "name": "Duong Khang",
+  "email": "duongkhang@email.com",
+  "password": "$2a$08$FFQWhsosFprh6iHUssAx0u75gRpH.wAPhF8auIxWGj.c/ijpoPfU2",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-22T02:11:48.105Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T02:11:48.105Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a868640ea76824b4d0244a"
+  },
+  "isAdmin": false,
+  "name": "Vinh Khang",
+  "email": "vinhkhang@email.com",
+  "password": "$2a$08$zYzPYDnfQgsPnMbB5B4YM.s3D1e/QRT15nnuYPDBi2YzdK1Z0IsKS",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-05-22T02:11:48.105Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T02:11:48.105Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a871d959315c14b0f37f02"
+  },
+  "isAdmin": false,
+  "name": "Test data",
+  "email": "abc@email.com",
+  "password": "$2a$08$YZhkqrbgshZMiA7pnKTtg.J8YQ3Opq52AaLNvoDTKPOqULhp7riKK",
+  "createdAt": {
+    "$date": "2021-05-22T02:52:09.061Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T02:52:09.061Z"
+  },
+  "__v": 0
+}]
